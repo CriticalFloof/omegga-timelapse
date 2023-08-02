@@ -19,15 +19,15 @@ Allows you to record timelapses of your builds and play them back!
 
 ## Commands
 
-/timelapse_record "name", to start a timelapse.
-/timelapse_play "name" will allow you to replay recorded timelapses.
-/timelapse_stop to stop recording or playing a timelapse.
-/timelapse_delete "name" removes a timelapse.
-/timelapse_list shows all timelapses saved.
+- /timelapse_record "name", to start a timelapse.
+- /timelapse_play "name" will allow you to replay recorded timelapses.
+- /timelapse_stop to stop recording or playing a timelapse.
+- /timelapse_delete "name" removes a timelapse.
+- /timelapse_list shows all timelapses saved.
 
 ## Config
 
-Trusted Role: Chooses who can run these commands.
-Timelapse Playback Speed: The speed the timelapse is ran.
-Timelapse Record Speed: The speed the timelapse is recorded.
-Frame Notification: Whenever recording a timelapse, broadcast which frame was saved.
+- Trusted Role: Chooses who can run these commands.
+- Timelapse Playback Speed: The speed the timelapse is ran.
+- Timelapse Record Speed: The speed the timelapse is recorded.
+- Frame Notification: Whenever recording a timelapse, broadcast which frame was saved.
